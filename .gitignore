@@ -1,0 +1,7 @@
+# directories to ignore
+.venv/
+build/
+
+# specific files
+.DS_Store
+*.spec
