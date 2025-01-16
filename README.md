@@ -14,7 +14,7 @@ No user identifiable data is saved to the csv or otherwise transmitted.
 
 Get the bo6_extract.py and requirements.txt into your preferred directory.
 
-Create your venv or use whatever environment and pip install -r requirements.txt
+Create your venv or use whatever environment and pip install -r requirements.txt.
 
 Once dependencies are installed, copy the html file provided by Activision to the same directory as the bo6_extract.py file.
 
